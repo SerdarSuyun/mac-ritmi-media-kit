@@ -1,0 +1,52 @@
+[
+  {
+    "asset": "assets/logo.webp",
+    "source": "01-Logolar/Maç Ritmi Logo Beyaz.png",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/portrait.webp",
+    "source": "02-Portre/12- Serdar Süyün (Ben) Kollar bağlı.png",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/studio-wide.webp",
+    "source": "03-Stüdyo/IMG_1129.JPG",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/studio-camera.webp",
+    "source": "03-Stüdyo/IMG_7859.JPG",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/studio-blue.webp",
+    "source": "03-Stüdyo/IMG_7923.JPG",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/reel-1.webp",
+    "source": "04-Kapaklar/01_Okan_Burukun_Stuttgart_Tuzagi.jpg",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/reel-2.webp",
+    "source": "04-Kapaklar/02_Amedsporun_En_Buyuk_Zaafi.jpg",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/reel-3.webp",
+    "source": "04-Kapaklar/03_Tunelde_Ne_Konusuldu.jpg",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/reel-4.webp",
+    "source": "04-Kapaklar/04_700_Bin_Euro_Cope_Gitti.jpg",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  },
+  {
+    "asset": "assets/reel-5.webp",
+    "source": "04-Kapaklar/05_Asil_Kriz_Osimhen_Degil.jpg",
+    "reason": "Yüksek çözünürlük, net odak ve sunum amacına uygun kadraj."
+  }
+]

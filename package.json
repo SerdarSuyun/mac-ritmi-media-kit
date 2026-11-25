@@ -1,0 +1,16 @@
+{
+  "name": "mac-ritmi-digital-media-kit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Maç Ritmi Digital Media Kit — merkezi JSON ile yönetilen statik web sitesi",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "check": "node --check src/app.js && node --check src/analytics.js && node scripts/validate.mjs && node --test scripts/analytics.test.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}

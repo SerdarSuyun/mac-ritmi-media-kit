@@ -1,0 +1,29 @@
+{
+  "name": "Maç Ritmi",
+  "version": "1.0",
+  "updated": "25 Kasım 2026",
+  "host": "Serdar Süyün",
+  "phone": "+90 506 256 00 41",
+  "phoneHref": "tel:+905062560041",
+  "email": "info@lunarmedia.com.tr",
+  "secondaryEmail": "suyunserdar@gmail.com",
+  "whatsapp": "https://wa.me/905062560041?text=Merhaba%2C+Ma%C3%A7+Ritmi+sponsorluk+se%C3%A7enekleri+hakk%C4%B1nda+bilgi+almak+istiyorum.",
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/macritmi/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/@macritmiofficial"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/macritmi"
+    },
+    {
+      "name": "X",
+      "url": "https://x.com/SSPhotograpy"
+    }
+  ]
+}

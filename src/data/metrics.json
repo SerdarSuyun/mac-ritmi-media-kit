@@ -1,0 +1,93 @@
+{
+  "sources": {
+    "main": {
+      "title": "İstatistik doğrulama raporu",
+      "date": "24 Kasım 2026",
+      "file": "Mac_Ritmi_Media_Kit_Istatistik_Raporu_2026-11-24.md"
+    },
+    "v2": {
+      "title": "Ek analiz raporu V2.0",
+      "date": "25 Kasım 2026",
+      "file": "Mac_Ritmi_Media_Kit_Ek_Analiz_Raporu_V2.0.md"
+    }
+  },
+  "periods": {
+    "30": {
+      "label": "30 gün",
+      "period": "25 Ekim–23 Kasım 2026",
+      "source": "main",
+      "scope": "Instagram panosu · Instagram + Facebook çapraz paylaşım görüntülemeleri",
+      "total": 3112043,
+      "instagram": 1677052,
+      "facebook": 1434991,
+      "interactions": 43977,
+      "nonFollowerPercent": 96.8
+    },
+    "90": {
+      "label": "90 gün",
+      "period": "26 Ağustos–23 Kasım 2026",
+      "source": "main",
+      "scope": "Instagram panosu · Instagram + Facebook çapraz paylaşım görüntülemeleri",
+      "total": 6113251,
+      "instagram": 2944267,
+      "facebook": 3168984,
+      "interactions": 70754,
+      "nonFollowerPercent": 94.9
+    }
+  },
+  "platforms": [
+    {
+      "name": "Instagram",
+      "followers": 6523,
+      "unit": "takipçi",
+      "asOf": "25 Kasım 2026",
+      "source": "v2",
+      "views": 1677052,
+      "period": "25 Ekim–23 Kasım 2026",
+      "scope": "Yalnız Instagram kırılımı · 30 gün"
+    },
+    {
+      "name": "YouTube",
+      "followers": 4587,
+      "unit": "abone",
+      "asOf": "24 Kasım 2026",
+      "source": "main",
+      "views": 143859,
+      "period": "27 Ekim–23 Kasım 2026",
+      "scope": "Kanal görüntülemeleri · 28 gün"
+    },
+    {
+      "name": "Facebook",
+      "followers": 12972,
+      "unit": "takipçi",
+      "asOf": "24 Kasım 2026",
+      "source": "main",
+      "views": 1028959,
+      "period": "27 Ekim–23 Kasım 2026",
+      "scope": "Facebook paneli · 28 gün"
+    }
+  ],
+  "reels": {
+    "source": "v2",
+    "period": "26 Ekim–24 Kasım 2026",
+    "scope": "Bu dönemde yayımlanan 52 Instagram Reels’ın dışa aktarım anına kadar birikmiş performansı. Dönem içi hesap görüntülemesi değildir.",
+    "count": 52,
+    "mean": 35624.06,
+    "median": 10609,
+    "over100k": 5
+  },
+  "story": {
+    "source": "v2",
+    "period": "26 Ekim–24 Kasım 2026",
+    "count": 116,
+    "mean": 159.01,
+    "median": 144,
+    "scope": "Dönemde yayımlanan Story’lerin birikmiş görüntülemeleri."
+  },
+  "notes": [
+    "Görüntüleme sayıları tekil kişi sayısı değildir. Platform kitleleri örtüşebilir.",
+    "Meta çapraz toplamına Facebook paneli görüntülemeleri tekrar eklenmez.",
+    "Organik ve ücretli dağıtımın tamamı doğrulanmadığı için %100 organik iddiası kullanılmaz.",
+    "Reels ortalamaları gelecek içerikler için erişim veya görüntüleme garantisi değildir."
+  ]
+}

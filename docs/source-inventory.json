@@ -1,0 +1,516 @@
+[
+  {
+    "source": "01-Logolar/Maç Ritmi Logo Beyaz.png",
+    "bytes": 1130282,
+    "sha256": "2eddc79ccb79a562c6cfc75ddaedd6316d40ddeb7df39a294a660475c839c2db",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "source": "01-Logolar/Maç Ritmi Logo Renkli 1.png",
+    "bytes": 1473535,
+    "sha256": "160ce72fd42f0f701678d4c6f44ee16cf2811dab26930060db2dd66df50bc66f",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "source": "01-Logolar/Maç Ritmi Logo Renkli 2.png",
+    "bytes": 1480924,
+    "sha256": "66ea0a40f11605a528e69e175b7219e95299cd93af911687143a71bd85fc0bf8",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "source": "01-Logolar/Maç Ritmi Logo Renkli 3.png",
+    "bytes": 1478416,
+    "sha256": "fb76f78cec44acb3fbf7fb1520fd99ce2c4b74a3df3dddd69dfae40b2229f0ef",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "source": "01-Logolar/Maç Ritmi Logo Siyah.png",
+    "bytes": 1441817,
+    "sha256": "90ba330967acd0e08c708d63f0406a9bb774c350f903c726cb1fb287398b1c70",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGBA"
+  },
+  {
+    "source": "02-Portre/1- Serdar Süyün (Ben) Ciddi : Analitik.png",
+    "bytes": 1849696,
+    "sha256": "3ce431486f9eeb05c7ffadec40461bb3b45ab8b4936633da69debf3adfdba4ae",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/10- Serdar Süyün (Ben) Hafif Sola Bakış.png",
+    "bytes": 1868392,
+    "sha256": "481ea4ec16372f53d25b872952710db1083f4200a3713125e6f3df89d1fa0122",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/11- Serdar Süyün (Ben) Hafif Sağa Bakış.png",
+    "bytes": 1838877,
+    "sha256": "823066c668ec00b8a91cdf4ae10bc7d1e527bce3953a7411bedd400499995430",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/12- Serdar Süyün (Ben) Kollar bağlı.png",
+    "bytes": 1836542,
+    "sha256": "e98030ef512116080dbf4b51a8e112c64ae18576b2e0923e1d83392f869325ee",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/13- Serdar Süyün (Ben) Eller Çenede.png",
+    "bytes": 1908417,
+    "sha256": "f70fa8068084eaa77e9d1e19fe32c4adf66f5237135d30100dcba4ca6fad9eae",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/14- Serdar Süyün (Ben) Eliyle İşaret Eden.png",
+    "bytes": 1832960,
+    "sha256": "353d336729d5a8d74c2b24af6934303dec29ec0666257a2a7e5fd06199118d65",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/2- Serdar Süyün (Ben) Süpheli : Sorgulayan.png",
+    "bytes": 1890604,
+    "sha256": "cd4137456c91d66a0f82c32d36b9a612068a32ccf7d82da64c55bf71b2561612",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/3- Serdar Süyün (Ben) Endişeli : kriz.png",
+    "bytes": 1849459,
+    "sha256": "12955cdf87c7dfec3b68f60aa1691a6b2009ed3dc2c19af6bfb6031c5024e63a",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/4- Serdar Süyün (Ben) İşaret Eden : Vurgu Yapan.png",
+    "bytes": 1815454,
+    "sha256": "8b9c818f14a5c4d687b8f1951e98ef680432877ae84ebfbf2390d88a150c9b02",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/5- Serdar Süyün (Ben) Kararlı : Sert.png",
+    "bytes": 1928187,
+    "sha256": "0c99561bcc46d8137aa069c4a1cbe5922bd38afe3c20c4b10f6e712b058c70a4",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/6- Serdar Süyün (Ben) Şaşkın ama Kontrollü.png",
+    "bytes": 1850843,
+    "sha256": "4a6cbff78407a4cf72c41b5fa897560e2d0629e6a416b12ca8c40743f484df0a",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/7- Serdar Süyün (Ben) Düşünür.png",
+    "bytes": 1828635,
+    "sha256": "8893c992815354556bbb2ed98bd5546ec2c03bfc859056b84687ecf678b662fe",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/8- Serdar Süyün (Ben) Hafif Gülümseyen : Pozitif.png",
+    "bytes": 1876158,
+    "sha256": "a327251de1657f6a9d68a994b08ae77590c65775c6d5390dcc140da15142d69a",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "02-Portre/9- Serdar Süyün (Ben) Direkt : Kameraya Bakış.png",
+    "bytes": 1808092,
+    "sha256": "0685601a34c56473c039cdf0a5a2909975753dad041f43dc22267b7dc80b15c6",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1097.JPG",
+    "bytes": 2602335,
+    "sha256": "f3b3c1c3891f6290d184246e356289b2fd7c92e6c74d3d2df4fbbd1cccd4b963",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1104.JPG",
+    "bytes": 2499164,
+    "sha256": "ad6c993c1dda04a848b235ed8c67b98f3f3ab5682e726334f618c6b5d2abf460",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1105.JPG",
+    "bytes": 2473999,
+    "sha256": "47630d938331f154432236eaf41a1aefb2fb3740219753648e97f9e76dd4a629",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1106.JPG",
+    "bytes": 4134037,
+    "sha256": "ee01db277d2ae126d2ffeb4fd0cd8e29597943f4c1ac863ad432e0cabe0ebb12",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1107.JPG",
+    "bytes": 2415628,
+    "sha256": "ca88aec49d93a06544a033d49768ce72e7b14bc2e765ef764d61be777a3e8f1a",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1108.JPG",
+    "bytes": 2337047,
+    "sha256": "3386a5f81ac874de80b42a9d43fb620d0e0e44752e033d29499863166ddba9e4",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1110.JPG",
+    "bytes": 2311716,
+    "sha256": "3a1a3742cde2913672f9fb41e231b67ed7842e14472971060612ba6f2304842e",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1111.JPG",
+    "bytes": 2412974,
+    "sha256": "dc610d20a6bcf9fdbceec00449674a570db23e37dbf80ad6beb5abc846d5b7c7",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1112.JPG",
+    "bytes": 2868119,
+    "sha256": "2f7fa70de22fac189dd22b1b2a74678310e6671d2f5bea7da698a2b49fc605d9",
+    "width": 4032,
+    "height": 2268,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1116.JPG",
+    "bytes": 2743336,
+    "sha256": "4a693a994c0f9937d094ba86fa1beb5d9a0f687d381728d2948dd38faf36ea9c",
+    "width": 4032,
+    "height": 2268,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1117.JPG",
+    "bytes": 2264618,
+    "sha256": "79726e2cbb98066c1359675762d128a65d85b03554daec84f52efc137d49ac5f",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1118.JPG",
+    "bytes": 2258408,
+    "sha256": "bff23ca79a047e0ddc0b6b336e07d4e7a672f8d1f79a995b87d6f2f50bb19f31",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1119.JPG",
+    "bytes": 2503850,
+    "sha256": "151c616cba3c321405c610a2fe91aafc3f798bf9463cdcfc0832ee55c8a8f2b3",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1120.JPG",
+    "bytes": 2481958,
+    "sha256": "1b82c873199c77a9d05c0f95693b4a3ac2ed26053b38c336ac16427616db98d9",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1125.JPG",
+    "bytes": 2546018,
+    "sha256": "bce21a341d0188c65af9afdaefd81c6090fd35942d8dc767382c32ade8b5cd6e",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1126.JPG",
+    "bytes": 2472053,
+    "sha256": "3a408f688e181352906e7fd0bb0301fa92864df28b5cbcefdde93c1e1790dad8",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1127.JPG",
+    "bytes": 3770244,
+    "sha256": "b2f4ba476a76f89920b7a71a503a60d24e17e6d0c8fa07c095d9d03625f10d4d",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1128.JPG",
+    "bytes": 3980497,
+    "sha256": "3742ed39498290c3f656120ecb813cf246908d231dddb37b52bef92ee011c63f",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1129.JPG",
+    "bytes": 2539994,
+    "sha256": "2095110c513bc46ad459aff1ea0ee54d018b3b346fde5d9ecda4ed29133c40f3",
+    "width": 4032,
+    "height": 2268,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1130.JPG",
+    "bytes": 4110382,
+    "sha256": "f4f8f9242f882c4dbb5d85158e2f464cd90da6d021008e60c2296f4e6a20a1a7",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1131.JPG",
+    "bytes": 3567574,
+    "sha256": "a1ad1bb627224d97771b72f2442e45afc2272520db9f9c0103f7f51d75dbbf98",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1132.JPG",
+    "bytes": 3797794,
+    "sha256": "7b595e84a36cb0a71ab67f7303b966a20ee52817d9d13ad562233a6d0b932dd4",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1179.JPG",
+    "bytes": 2697475,
+    "sha256": "9d983412f25867f9fcd74a99df45824f9fe5768bb308c303da205ee05e6b3d2c",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1180.JPG",
+    "bytes": 4136783,
+    "sha256": "b1e3f17b524cafd8d5b716d7e462a2f571e26076961c152bb120c83fa331b4a8",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1181.JPG",
+    "bytes": 2697845,
+    "sha256": "1c69551be3ec66a4603d191a6aa15fec27523fb40e389426ed789aa1cb0b55c4",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1182.JPG",
+    "bytes": 4124213,
+    "sha256": "688739a7a215ac339ba1f66ac988f1871943e0b5260466209c15321b938d7185",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1183.JPG",
+    "bytes": 2547458,
+    "sha256": "56d64944af28325853eb1c24eca0c82c6b92997e6041a53ad1f121a446f53b05",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1184.JPG",
+    "bytes": 2956415,
+    "sha256": "45b85142f94995633c099b6430263fa6fa22e4575b57ea99bb6c932380457e7f",
+    "width": 4032,
+    "height": 2268,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1192.JPG",
+    "bytes": 2992676,
+    "sha256": "4ab41351ffa3b52dbd641603eb533238e7bea2d527a04b3bc4e5179da7a2a8ac",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_1226.JPG",
+    "bytes": 2016012,
+    "sha256": "fd6612780e95536143d4093cb4225a5938572658e8e831694d4eaab779106c57",
+    "width": 4032,
+    "height": 2268,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7856.JPG",
+    "bytes": 3103870,
+    "sha256": "de3cc20ae22977626f342748c5c3f3c08fe7e1b93a5b034ccbb99cf965464cfa",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7857.JPG",
+    "bytes": 2591091,
+    "sha256": "0190d1e37056b3e29cd0d59eaf1617df53d50dcdd92acc6927be67f51376e714",
+    "width": 2268,
+    "height": 4032,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7858.JPG",
+    "bytes": 3361676,
+    "sha256": "a045e1a51c126479e78096f5033e452f1688c8ce2822fcf807989ab73fb19862",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7859.JPG",
+    "bytes": 4061729,
+    "sha256": "8203f3778a39c6de7f72b1a434dbb5f21b6a94a1db4a83597e60000f6d8965d4",
+    "width": 5712,
+    "height": 3213,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7920.JPG",
+    "bytes": 4230055,
+    "sha256": "0db14234ea109eb397fb2a26eb4363466d08c5dee70dff12258de2b74a2a425b",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7922.JPG",
+    "bytes": 4400162,
+    "sha256": "4e81e8cc113297ac1eb6034312a47a3bf8504e5f850b249052e1148c0fd8a309",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7923.JPG",
+    "bytes": 4303512,
+    "sha256": "a88a6c39f7674e24728fa07c26084d341fa2e80d5fe9d33fda6d8784ddd97d47",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "03-Stüdyo/IMG_7924.JPG",
+    "bytes": 4461575,
+    "sha256": "9f660a9570ff461db695868bb0312edf1a54ae4c8264886a3fafe7167385167e",
+    "width": 3213,
+    "height": 5712,
+    "mode": "RGB"
+  },
+  {
+    "source": "04-Kapaklar/01_Okan_Burukun_Stuttgart_Tuzagi.jpg",
+    "bytes": 39028,
+    "sha256": "6b3def748f15386884fba0b55a970a22db9063125aaab3c292fe95c84c0d6e25",
+    "width": 360,
+    "height": 640,
+    "mode": "RGB"
+  },
+  {
+    "source": "04-Kapaklar/02_Amedsporun_En_Buyuk_Zaafi.jpg",
+    "bytes": 32827,
+    "sha256": "5d771140cb364678c3f91b14c450171c9b6160afdbee775c752e01cb7536a0f4",
+    "width": 360,
+    "height": 640,
+    "mode": "RGB"
+  },
+  {
+    "source": "04-Kapaklar/03_Tunelde_Ne_Konusuldu.jpg",
+    "bytes": 37304,
+    "sha256": "2ed002ad5552d597dbd7dc26fb93ffaf93d76843c69aaa912b17377e8b4a0b6b",
+    "width": 360,
+    "height": 640,
+    "mode": "RGB"
+  },
+  {
+    "source": "04-Kapaklar/04_700_Bin_Euro_Cope_Gitti.jpg",
+    "bytes": 59106,
+    "sha256": "3c21c4c717116ed66e0f1e804f08381f90a14652c5926e9ca8a188e6167f0961",
+    "width": 360,
+    "height": 640,
+    "mode": "RGB"
+  },
+  {
+    "source": "04-Kapaklar/05_Asil_Kriz_Osimhen_Degil.jpg",
+    "bytes": 66185,
+    "sha256": "67ba83aa1e29ee03ffbe68e6ad4a3cf1d243a6bbe39500d58c53c6452ca6e595",
+    "width": 360,
+    "height": 640,
+    "mode": "RGB"
+  },
+  {
+    "source": "06-Analizler/Mac_Ritmi_Media_Kit_Ek_Analiz_Raporu_V2.0.md",
+    "bytes": 43242,
+    "sha256": "39616edb3be9d0c84eb45815194569a9f4fd0ed333dc1563a0ec659da94faa51"
+  },
+  {
+    "source": "06-Analizler/Mac_Ritmi_Media_Kit_Istatistik_Raporu_2026-11-24.md",
+    "bytes": 20117,
+    "sha256": "f52fdddc876d2c8d79e09407e03446b14735a616161ac93e9adc344f9c9a4fba"
+  },
+  {
+    "source": "07-Kurumsal/Kurumsal.png",
+    "bytes": 1874048,
+    "sha256": "58518968c501c57ab15d38e976e1657076e4cfbcbe7cac88d7915c29f9233f69",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB"
+  }
+]

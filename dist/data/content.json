@@ -1,0 +1,75 @@
+{
+  "reels": [
+    {
+      "title": "Okan Buruk’un Stuttgart tuzağı",
+      "image": "assets/reel-1.webp"
+    },
+    {
+      "title": "Amedspor’un en büyük zaafı",
+      "image": "assets/reel-2.webp"
+    },
+    {
+      "title": "Tünelde ne konuşuldu?",
+      "image": "assets/reel-3.webp"
+    },
+    {
+      "title": "700 bin euro çöpe gitti",
+      "image": "assets/reel-4.webp"
+    },
+    {
+      "title": "Asıl kriz Osimhen değil",
+      "image": "assets/reel-5.webp"
+    }
+  ],
+  "collaborations": [
+    {
+      "title": "Kısa video entegrasyonu",
+      "tag": "REELS / SHORTS",
+      "description": "Markanızı futbol gündemine uygun bir kısa video anlatısına dahil edelim. Mesaj, yayın adedi ve platform dağılımını birlikte planlayalım."
+    },
+    {
+      "title": "Yayın sponsorluğu",
+      "tag": "CANLI YAYIN",
+      "description": "Maç önü ve maç sonu yayınlarında sunucu anonsu ve marka görünürlüğü için özel bir kurgu hazırlayalım."
+    },
+    {
+      "title": "Dönemsel iş birliği",
+      "tag": "ÇOKLU PLATFORM",
+      "description": "Reels, Shorts ve yayın envanterini bir araya getiren, markanızın hedeflerine göre şekillenen bir içerik planı oluşturalım."
+    }
+  ],
+  "about": {
+    "title": "FUTBOLU TAKİP EDEN DEĞİL,\nKONUŞAN BİR TOPLULUK.",
+    "paragraphs": [
+      "Maç Ritmi, Galatasaray odağında futbol gündemini yorumlayan bir dijital yayın platformu. Maç öncesi beklentileri, sahadaki kararları ve maç sonrasında konuşulanları canlı yayınlar, Reels ve Shorts içerikleriyle ele alıyoruz.",
+      "Kanalın sunucusu ve içerik üreticisi Serdar Süyün. Lunar Media’nın kurucusu olan Serdar, fotoğraf, video ve prodüksiyon deneyimini futbol yorumculuğuyla aynı yayında buluşturuyor. İçeriklerimizi Antalya’daki Lunar Media stüdyosunda hazırlıyoruz.",
+      "YouTube, Instagram ve Facebook’ta farklı formatlarla aynı sohbeti sürdürüyoruz. Markalarla da bu yayın kimliğine uygun, içeriğin doğal akışına dahil olan iş birlikleri geliştiriyoruz."
+    ],
+    "formats": [
+      {
+        "id": "pre",
+        "label": "Maç önü",
+        "title": "Düdük çalmadan başlarız.",
+        "description": "Muhtemel kadrolar, taktik beklentiler ve maçın belirleyici eşleşmeleri üzerine konuşuruz.",
+        "x": 23,
+        "y": 68
+      },
+      {
+        "id": "post",
+        "label": "Maç sonu",
+        "title": "Skorun arkasındaki oyunu konuşuruz.",
+        "description": "Kritik pozisyonları, oyuncu performanslarını ve teknik kararları maç sonu yayınlarımızda değerlendiririz.",
+        "x": 52,
+        "y": 48
+      },
+      {
+        "id": "short",
+        "label": "Reels / Shorts",
+        "title": "Gündemin konuşulan anını yakalarız.",
+        "description": "Yayınlarımızdaki yorumları ve futbol gündemini kısa video formatında izleyiciyle buluştururuz.",
+        "x": 79,
+        "y": 25
+      }
+    ]
+  }
+}

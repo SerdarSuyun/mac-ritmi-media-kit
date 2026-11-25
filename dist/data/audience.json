@@ -1,0 +1,151 @@
+{
+  "instagram": {
+    "name": "Instagram",
+    "source": "v2",
+    "period": "25 Kasım 2026 okuması · 24 Kasım 2026’ya kadar mevcut takipçiler",
+    "scope": "Meta Business Suite · takipçi kitlesi; son 30 günlük izleyici dağılımı değildir.",
+    "male": 96.3,
+    "female": 3.7,
+    "country": 87.9,
+    "ages": [
+      {
+        "label": "18–24",
+        "value": 2
+      },
+      {
+        "label": "25–34",
+        "value": 11.4
+      },
+      {
+        "label": "35–44",
+        "value": 22.4
+      },
+      {
+        "label": "45–54",
+        "value": 27.7
+      },
+      {
+        "label": "55–64",
+        "value": 21
+      },
+      {
+        "label": "65+",
+        "value": 15.5
+      }
+    ],
+    "cities": [
+      {
+        "label": "İstanbul",
+        "value": 19.4
+      },
+      {
+        "label": "İzmir",
+        "value": 5.6
+      },
+      {
+        "label": "Ankara",
+        "value": 4.2
+      },
+      {
+        "label": "Antalya",
+        "value": 2.9
+      }
+    ],
+    "note": "Yaş toplamları yuvarlanmış kadın ve erkek hücrelerinden hesaplandı. Şehirler panelin ilk 10 listesinden seçilmiştir."
+  },
+  "youtube": {
+    "name": "YouTube",
+    "source": "main",
+    "period": "27 Ekim–23 Kasım 2026 · 28 gün",
+    "scope": "YouTube Studio · görüntülemeye göre yaş, cinsiyet ve ülke dağılımı.",
+    "male": 88.6,
+    "female": 11.4,
+    "country": 83.3,
+    "ages": [
+      {
+        "label": "13–17",
+        "value": 3.6
+      },
+      {
+        "label": "18–24",
+        "value": 5.5
+      },
+      {
+        "label": "25–34",
+        "value": 25.4
+      },
+      {
+        "label": "35–44",
+        "value": 26.5
+      },
+      {
+        "label": "45–54",
+        "value": 19.2
+      },
+      {
+        "label": "55–64",
+        "value": 12.2
+      },
+      {
+        "label": "65+",
+        "value": 7.5
+      }
+    ],
+    "cities": [],
+    "note": "Şehir dağılımı doğrulanmadı. Yüzdeler yuvarlama nedeniyle 100 etmeyebilir."
+  },
+  "facebook": {
+    "name": "Facebook",
+    "source": "main",
+    "period": "24 Kasım 2026 panel okuması",
+    "scope": "Facebook hedef kitle paneli · kitle dağılımı; yalnız video izleyicileri değildir.",
+    "male": 97.1,
+    "female": 2.9,
+    "country": 92.2,
+    "ages": [
+      {
+        "label": "18–24",
+        "value": 1
+      },
+      {
+        "label": "25–34",
+        "value": 6
+      },
+      {
+        "label": "35–44",
+        "value": 10.8
+      },
+      {
+        "label": "45–54",
+        "value": 20.9
+      },
+      {
+        "label": "55–64",
+        "value": 30.9
+      },
+      {
+        "label": "65+",
+        "value": 30.4
+      }
+    ],
+    "cities": [
+      {
+        "label": "İstanbul",
+        "value": 42.8
+      },
+      {
+        "label": "İzmir",
+        "value": 14.7
+      },
+      {
+        "label": "Ankara",
+        "value": 10.7
+      },
+      {
+        "label": "Antalya",
+        "value": 5.6
+      }
+    ],
+    "note": "Cinsiyet oranları yaş hücrelerinden yaklaşık hesaplanmıştır; ayrı toplam kartı değildir."
+  }
+}
