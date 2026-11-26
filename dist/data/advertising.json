@@ -1,0 +1,454 @@
+{
+  "title": "PAKETLERİNİZDEKİ\nREKLAM UYGULAMALARI.",
+  "description": "Paketlerimizin kapsamındaki görsel ve sözlü reklam uygulamalarını inceleyin. Bu 16 temsili örnek, markanızın içeriklerimizde nasıl görünebileceğini gösterir.",
+  "disclaimer": "VORTEX Technology, reklam modellerimizi örneklendirmek amacıyla oluşturulmuş temsili bir marka konseptidir. Görseller gerçek bir sponsorluk anlaşmasını veya gerçekleştirilmiş reklam kampanyasını temsil etmemektedir.",
+  "staticNotice": "Görseller, reklam yerleşimlerini gösteren statik tasarım örnekleridir.",
+  "categories": [
+    {
+      "id": "all",
+      "name": "TÜM UYGULAMALAR",
+      "count": 16
+    },
+    {
+      "id": "reels",
+      "name": "REELS & SHORTS",
+      "count": 12
+    },
+    {
+      "id": "live",
+      "name": "CANLI YAYIN",
+      "count": 4
+    }
+  ],
+  "models": [
+    {
+      "id": "demo-01",
+      "number": 1,
+      "name": "Sabit Sponsor Logosu",
+      "english": "Logo Placement",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Sponsor logosunun video boyunca belirlenen güvenli alanda görünmesini sağlayan reklam modeli.",
+      "goal": "Marka bilinirliği ve sürekli görsel görünürlük.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-01-logo-placement.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 52628
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-01-logo-placement.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 155842
+      }
+    },
+    {
+      "id": "demo-02",
+      "number": 2,
+      "name": "Sponsorlu Video Çerçevesi",
+      "english": "Branded Frame",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Video çerçevesinin sponsorun kurumsal renkleri ve logosuyla özelleştirilmesi.",
+      "goal": "Güçlü görsel marka kimliği.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-02-branded-frame.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 52560
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-02-branded-frame.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 160810
+      }
+    },
+    {
+      "id": "demo-03",
+      "number": 3,
+      "name": "Animasyonlu Alt Bant",
+      "english": "Lower Third",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Video sırasında sponsor logosunun, sloganının veya kampanya mesajının animasyonlu reklam bandıyla gösterilmesi.",
+      "goal": "Marka mesajının dikkat çekici biçimde iletilmesi.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-03-lower-third.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 55428
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-03-lower-third.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 163666
+      }
+    },
+    {
+      "id": "demo-04",
+      "number": 4,
+      "name": "Yan Reklam Paneli",
+      "english": "Side Banner",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Sunucu görüntüsünün yanında sponsorun ürününü veya kampanyasını gösteren reklam paneli.",
+      "goal": "Ürün görünürlüğü ve kampanya tanıtımı.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-04-side-banner.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 57130
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-04-side-banner.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 171286
+      }
+    },
+    {
+      "id": "demo-05",
+      "number": 5,
+      "name": "Sponsorlu Açılış",
+      "english": "Sponsor Intro",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Maç Ritmi ve sponsor markasının birlikte yer aldığı kısa açılış grafiği veya animasyonu.",
+      "goal": "İçeriğin sponsorla ilişkilendirilmesi.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-05-sponsor-intro.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 36456
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-05-sponsor-intro.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 116996
+      }
+    },
+    {
+      "id": "demo-06",
+      "number": 6,
+      "name": "Sponsorlu Kapanış",
+      "english": "End Card",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Video sonunda sponsor logosunun, ürün görselinin ve kampanya mesajının gösterilmesi.",
+      "goal": "Marka hatırlanırlığı ve harekete geçirici mesaj.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-06-end-card.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 50216
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-06-end-card.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 139962
+      }
+    },
+    {
+      "id": "demo-07",
+      "number": 7,
+      "name": "Pasif Ürün Yerleştirme",
+      "english": "Passive Product Placement",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Sponsor ürünlerinin doğal biçimde stüdyo masasında veya çekim alanında görünmesi.",
+      "goal": "İçerik akışını kesmeden ürün görünürlüğü.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-07-passive-product-placement.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 54912
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-07-passive-product-placement.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 156752
+      }
+    },
+    {
+      "id": "demo-08",
+      "number": 8,
+      "name": "Aktif Ürün Yerleştirme",
+      "english": "Active Product Placement",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Sunucunun sponsor ürününü kullanması, eline alması veya kameraya göstermesi.",
+      "goal": "Ürünün izleyici tarafından daha yakından tanınması.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-08-active-product-placement.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 68008
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-08-active-product-placement.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 197742
+      }
+    },
+    {
+      "id": "demo-09",
+      "number": 9,
+      "name": "Sözlü Sponsor Anlatımı",
+      "english": "Host Read",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Sunucunun sponsor markasını veya kampanya mesajını futbol içeriği içerisinde sözlü olarak aktarması.",
+      "goal": "Marka mesajının doğrudan izleyiciye iletilmesi.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-09-host-read.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 55902
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-09-host-read.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 148130
+      }
+    },
+    {
+      "id": "demo-10",
+      "number": 10,
+      "name": "İçerik Serisi İsim Sponsorluğu",
+      "english": "Naming Rights",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Maçın kritik anı, maç önü analizi veya oyuncu değerlendirmesi gibi düzenli içerik serilerinin sponsor markasıyla isimlendirilmesi.",
+      "goal": "Uzun vadeli marka hatırlanırlığı.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-10-naming-rights.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 67274
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-10-naming-rights.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 186404
+      }
+    },
+    {
+      "id": "demo-11",
+      "number": 11,
+      "name": "İndirim Kodu ve Kampanya",
+      "english": "Promo Code",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Markaya özel kampanya mesajlarının ve takipçilere sunulan indirim kodlarının içerikte gösterilmesi.",
+      "goal": "Ölçülebilir kampanya performansı ve satış yönlendirmesi.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-11-promo-code.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 63328
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-11-promo-code.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 173196
+      }
+    },
+    {
+      "id": "demo-12",
+      "number": 12,
+      "name": "Özgün Video (Özel Video)",
+      "english": "Dedicated Content",
+      "category": "reels",
+      "orientation": "portrait",
+      "description": "Markanın ürününe, hizmetine veya kampanyasına özel olarak sıfırdan tasarlanan; konsept, senaryo, çekim ve kurgu içeren reklam videosu. Yalnızca Özel Prodüksiyon hizmeti kapsamında sunulur.",
+      "goal": "Kapsamlı ürün ve marka tanıtımı.",
+      "platforms": [
+        "Instagram Reels",
+        "YouTube Shorts",
+        "Facebook Reels"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-12-dedicated-reel.webp",
+        "width": 540,
+        "height": 959,
+        "bytes": 58786
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-12-dedicated-reel.webp",
+        "width": 941,
+        "height": 1672,
+        "bytes": 148104
+      }
+    },
+    {
+      "id": "demo-13",
+      "number": 13,
+      "name": "Ana Yayın Sponsorluğu",
+      "english": "Main Sponsor",
+      "category": "live",
+      "orientation": "landscape",
+      "description": "Canlı yayınlarda ana sponsor kimliğinin, marka logosunun ve anlaşma kapsamındaki sponsor anonslarının kullanılması.",
+      "goal": "Yayınla güçlü marka ilişkilendirmesi.",
+      "platforms": [
+        "YouTube Canlı Yayın"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-13-live-main-sponsor.webp",
+        "width": 959,
+        "height": 540,
+        "bytes": 76324
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-13-live-main-sponsor.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 203362
+      }
+    },
+    {
+      "id": "demo-14",
+      "number": 14,
+      "name": "İstatistik Sponsorluğu",
+      "english": "Statistics Sponsor",
+      "category": "live",
+      "orientation": "landscape",
+      "description": "Maç istatistiklerinin ve analiz grafiklerinin sponsor markasıyla birlikte sunulması.",
+      "goal": "Markanın futbol analizleriyle ilişkilendirilmesi.",
+      "platforms": [
+        "YouTube Canlı Yayın"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-14-live-statistics-sponsor.webp",
+        "width": 959,
+        "height": 540,
+        "bytes": 81548
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-14-live-statistics-sponsor.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 219938
+      }
+    },
+    {
+      "id": "demo-15",
+      "number": 15,
+      "name": "Canlı Yayın Reklam Bandı",
+      "english": "Live Banner",
+      "category": "live",
+      "orientation": "landscape",
+      "description": "Canlı yayın sırasında belirlenen aralıklarla sponsor logosunun, sloganının veya kampanya mesajının reklam bandında gösterilmesi.",
+      "goal": "Yayın akışı içinde tekrarlanan marka görünürlüğü.",
+      "platforms": [
+        "YouTube Canlı Yayın"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-15-live-banner.webp",
+        "width": 959,
+        "height": 540,
+        "bytes": 67770
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-15-live-banner.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 176866
+      }
+    },
+    {
+      "id": "demo-16",
+      "number": 16,
+      "name": "Stüdyo Markalaması",
+      "english": "Studio Branding",
+      "category": "live",
+      "orientation": "landscape",
+      "description": "Stüdyo ortamında sponsor markasına ait fiziksel tabela, ürün veya dekoratif reklam materyallerinin kullanılması.",
+      "goal": "Uzun vadeli ve doğal marka görünürlüğü.",
+      "platforms": [
+        "YouTube Canlı Yayın"
+      ],
+      "thumbnail": {
+        "src": "assets/advertising-showcase/thumbnails/demo-16-live-studio-branding.webp",
+        "width": 959,
+        "height": 540,
+        "bytes": 81092
+      },
+      "image": {
+        "src": "assets/advertising-showcase/full/demo-16-live-studio-branding.webp",
+        "width": 1672,
+        "height": 941,
+        "bytes": 213752
+      }
+    }
+  ],
+  "customQuote": {
+    "title": "PAKET KAPSAMINI BİRLİKTE NETLEŞTİRELİM",
+    "description": "Bronz, Gümüş, Altın veya Özel Prodüksiyon kapsamında markanıza uygun uygulamaları birlikte planlayalım.",
+    "message": "Merhaba, Maç Ritmi ile markamıza özel bir sponsorluk ve reklam paketi oluşturmak istiyoruz. İş birliği seçenekleriniz hakkında bilgi alabilir miyiz?"
+  }
+}

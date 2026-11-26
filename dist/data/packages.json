@@ -1,0 +1,397 @@
+{
+  "title": "MARKANIZA UYGUN\nORTAKLIĞI SEÇİN.",
+  "description": "Düzenli futbol içeriklerimize sponsor entegrasyonu için üç farklı aylık sponsorluk paketi; sıfırdan markaya özel bir reklam videosu için Özel Prodüksiyon. İhtiyacınıza uygun hizmeti seçin, yayın planını birlikte netleştirelim.",
+  "platforms": [
+    "Instagram Reels",
+    "Facebook Reels",
+    "YouTube Shorts",
+    "YouTube yatay video (16:9)"
+  ],
+  "items": [
+    {
+      "id": "bronze",
+      "name": "Bronz",
+      "subtitle": "Marka Görünürlüğü",
+      "accent": "#CD7F32",
+      "model": "Aylık",
+      "audience": "Markanızı Maç Ritmi'nin düzenli olarak yayımlanan futbol içeriklerine entegre ederek hedef kitleniz nezdinde marka görünürlüğü ve bilinirliği sağlıyoruz.",
+      "features": [
+        "Sabit sponsor logosu",
+        "Sponsorlu video çerçevesi",
+        "Animasyonlu alt bant",
+        "Yan reklam paneli",
+        "Sponsorlu açılış veya kapanış",
+        "Pasif ürün yerleştirme",
+        "İçerik açıklamasında sponsor bilgisi",
+        "Aylık performans raporu"
+      ],
+      "demos": [
+        "demo-01",
+        "demo-02",
+        "demo-03",
+        "demo-04",
+        "demo-05",
+        "demo-06",
+        "demo-07"
+      ],
+      "sponsoredCount": 4,
+      "dedicatedCount": 0,
+      "liveCount": 0,
+      "serviceType": "Sponsored Content",
+      "english": "Brand Visibility (Marka Görünürlüğü)",
+      "serviceNote": "Sözlü sponsor anlatımı dahil değildir."
+    },
+    {
+      "id": "silver",
+      "name": "Gümüş",
+      "subtitle": "Marka Entegrasyonu",
+      "accent": "#C0C0C0",
+      "model": "Aylık",
+      "audience": "Markanızı futbol içeriklerimizin doğal akışına dahil ediyor, görsel reklam uygulamalarının yanı sıra sözlü anlatım ve ürün gösterimiyle izleyicilerimize tanıtıyoruz.",
+      "features": [
+        "Bronz paketteki görsel reklam uygulamaları",
+        "5–15 saniyelik sözlü sponsor anlatımı",
+        "Aktif ve pasif ürün yerleştirme",
+        "Ürün gösterimi",
+        "Kampanya mesajı entegrasyonu",
+        "İndirim kodu entegrasyonu",
+        "CTA (Harekete geçirici mesaj)",
+        "Aylık performans raporu"
+      ],
+      "demos": [
+        "demo-01",
+        "demo-02",
+        "demo-03",
+        "demo-04",
+        "demo-05",
+        "demo-06",
+        "demo-07",
+        "demo-08",
+        "demo-09",
+        "demo-11"
+      ],
+      "sponsoredCount": 8,
+      "dedicatedCount": 0,
+      "liveCount": 0,
+      "serviceType": "Sponsored Content",
+      "english": "Brand Integration (Marka Entegrasyonu)",
+      "serviceNote": "Marka entegrasyonu, düzenli futbol içeriklerinin doğal akışında yapılır."
+    },
+    {
+      "id": "gold",
+      "name": "Altın",
+      "subtitle": "Marka Partnerliği",
+      "accent": "#FFB300",
+      "model": "Aylık",
+      "audience": "Markanızı Maç Ritmi'nin düzenli futbol içerikleri, analiz serileri ve canlı yayınlarıyla buluşturarak uzun vadeli bir medya partnerliği oluşturuyoruz.",
+      "features": [
+        "Görsel ve sözlü marka entegrasyonları",
+        "Aktif ve pasif ürün yerleştirme",
+        "Düzenli futbol içerik serisi sponsorluğu",
+        "İçerik serisi isim sponsorluğu",
+        "Aylık 4 canlı yayın sponsor entegrasyonu",
+        "İstatistik sponsorluğu",
+        "Canlı yayın reklam bandı",
+        "Uygun stüdyo markalaması",
+        "Kampanya ve indirim kodu entegrasyonu",
+        "Detaylı aylık performans raporu"
+      ],
+      "demos": [
+        "demo-01",
+        "demo-02",
+        "demo-03",
+        "demo-04",
+        "demo-05",
+        "demo-06",
+        "demo-07",
+        "demo-08",
+        "demo-09",
+        "demo-10",
+        "demo-11",
+        "demo-13",
+        "demo-14",
+        "demo-15",
+        "demo-16"
+      ],
+      "sponsoredCount": 12,
+      "dedicatedCount": 0,
+      "liveCount": 4,
+      "serviceType": "Sponsored Content",
+      "english": "Brand Partnership (Marka Partnerliği)",
+      "serviceNote": "Düzenli futbol içerik serisi ve isim sponsorluğu, markaya özel bağımsız reklam filmi üretimi anlamına gelmez."
+    },
+    {
+      "id": "production",
+      "name": "Özel Prodüksiyon",
+      "subtitle": "Markaya Özel Reklam",
+      "accent": "#FFB300",
+      "model": "Proje bazlı",
+      "audience": "Markanızın ürününe, hizmetine veya kampanyasına özel olarak sıfırdan tasarlanan profesyonel reklam videosu hazırlıyoruz.",
+      "features": [
+        "Markaya özel yaratıcı konsept",
+        "Özel reklam senaryosu",
+        "Profesyonel ürün veya hizmet çekimi",
+        "Sunucu anlatımı",
+        "Grafik ve animasyon",
+        "Profesyonel video kurgu",
+        "Renk düzenleme",
+        "Ses tasarımı",
+        "Kampanyaya uygun sosyal medya yayını",
+        "Performans raporu"
+      ],
+      "demos": [
+        "demo-12"
+      ],
+      "sponsoredCount": 0,
+      "dedicatedCount": 1,
+      "liveCount": 0,
+      "serviceType": "Dedicated Content",
+      "english": "Dedicated Content (Markaya Özel İçerik)",
+      "serviceNote": "Bu hizmet aylık sponsorluk paketi değil, proje bazlı özel prodüksiyon hizmetidir."
+    }
+  ],
+  "comparison": [
+    {
+      "label": "Çalışma modeli",
+      "values": [
+        "Aylık",
+        "Aylık",
+        "Aylık",
+        "Proje bazlı"
+      ]
+    },
+    {
+      "label": "Sponsorlu içerik",
+      "values": [
+        4,
+        8,
+        12,
+        false
+      ]
+    },
+    {
+      "label": "Özgün video (özel video)",
+      "values": [
+        false,
+        false,
+        false,
+        1
+      ]
+    },
+    {
+      "label": "Instagram Reels",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Facebook Reels",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "YouTube Shorts",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "YouTube yatay video (16:9)",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Sabit sponsor logosu",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Sponsorlu çerçeve",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Animasyonlu alt bant",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Yan reklam paneli",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Sponsorlu açılış ve kapanış",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Pasif ürün yerleştirme",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Aktif ürün yerleştirme",
+      "values": [
+        false,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Sözlü sponsor anlatımı",
+      "values": [
+        false,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "Kampanya ve indirim kodu",
+      "values": [
+        false,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "label": "İçerik serisi isim sponsorluğu",
+      "values": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "label": "Canlı yayın entegrasyonu",
+      "values": [
+        false,
+        false,
+        4,
+        false
+      ]
+    },
+    {
+      "label": "İstatistik sponsorluğu",
+      "values": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "label": "Canlı yayın reklam bandı",
+      "values": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "label": "Stüdyo markalaması",
+      "values": [
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "label": "Markaya özel yaratıcı konsept",
+      "values": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "label": "Özel reklam senaryosu",
+      "values": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "label": "Profesyonel özel reklam çekimi",
+      "values": [
+        false,
+        false,
+        false,
+        true
+      ]
+    },
+    {
+      "label": "Performans raporu",
+      "values": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "scopeNote": "Sponsorlu içerikler, Maç Ritmi'nin düzenli olarak ürettiği futbol içeriklerine marka entegrasyonu yapılmasını kapsar. Markaya özel bağımsız reklam videosu üretimi yalnızca Özel Prodüksiyon hizmetine dahildir.",
+  "deliveryNote": "Yayın platformları, içerik formatları ve reklam uygulamaları kampanyanın hedeflerine göre belirlenir. Tablodaki onay işaretleri kullanılabilecek platformları ve uygulamaları gösterir; her içeriğin bütün platformlarda yayımlanacağı veya bütün reklam uygulamalarının aynı anda kullanılacağı anlamına gelmez.",
+  "introNote": "Bronz pakette sponsorlu açılış veya kapanış kullanılır; uygulama seçimi içerik planında netleştirilir.",
+  "services": [
+    {
+      "name": "SPONSORLU İÇERİK",
+      "english": "Sponsored Content",
+      "formula": "Mevcut futbol içeriği + Marka entegrasyonu",
+      "description": "Bronz, Gümüş ve Altın: Maç Ritmi’nin düzenli maç yorumları, futbol gündemi ve analiz içeriklerinde sponsor entegrasyonu."
+    },
+    {
+      "name": "ÖZEL PRODÜKSİYON",
+      "english": "Dedicated Content",
+      "formula": "Özel konsept + Senaryo + Çekim + Kurgu",
+      "description": "Özgün Video (Özel Video): Markanız için sıfırdan oluşturulan, proje bazlı reklam içeriği."
+    }
+  ]
+}

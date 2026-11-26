@@ -85,6 +85,28 @@
   const choice = readChoice();
   if (choice === 'granted') start(); else if (choice !== 'denied') panel.hidden = false;
 
+  const advertisingEvents = new Set(['advertising_category_select', 'advertising_demo_open', 'advertising_quote_click', 'advertising_whatsapp_click', 'advertising_all_models_click']);
+  document.addEventListener('macritmi:advertising', e => {
+    if (!advertisingEvents.has(e.detail?.name)) return;
+    const parameters = {};
+    for (const key of ['demo_id', 'demo_name', 'advertising_category', 'platform', 'source_section', 'contact_channel']) {
+      const value = e.detail.parameters?.[key];
+      if (typeof value === 'string') parameters[key] = value.slice(0, 100);
+    }
+    event(e.detail.name, parameters);
+  });
+
+  const packageEvents = new Set(['package_details_open', 'package_quote_click', 'package_whatsapp_click']);
+  document.addEventListener('macritmi:packages', e => {
+    if (!packageEvents.has(e.detail?.name)) return;
+    const parameters = {};
+    for (const key of ['package_name', 'source_section', 'platform']) {
+      const value = e.detail.parameters?.[key];
+      if (typeof value === 'string') parameters[key] = value.slice(0, 100);
+    }
+    event(e.detail.name, parameters);
+  });
+
   document.addEventListener('click', e => {
     const target = e.target.closest('a,button');
     if (!target) return;
@@ -94,13 +116,21 @@
     else if (target.id === 'print') event('media_kit_print_requested');
   });
   if ('IntersectionObserver' in window) {
+    const viewTargets = new Map();
     const observer = new IntersectionObserver(entries => {
       for (const entry of entries) {
-        if (!approved || !entry.isIntersecting || document.visibilityState === 'hidden' || seen.has(entry.target.id)) continue;
-        seen.add(entry.target.id);
-        event(entry.target.id === 'kitle' ? 'audience_view' : 'sponsorship_view');
+        const sectionId = viewTargets.get(entry.target) || entry.target.id;
+        if (!approved || !entry.isIntersecting || document.visibilityState === 'hidden' || seen.has(sectionId)) continue;
+        seen.add(sectionId);
+        const name = sectionId === 'kitle' ? 'audience_view' : sectionId === 'reklam-modelleri' ? 'advertising_showcase_view' : sectionId === 'paket-karsilastirma' ? 'package_comparison_view' : 'sponsorship_view';
+        event(name, sectionId === 'reklam-modelleri' ? {source_section: 'advertising_showcase'} : {});
+        if (sectionId === 'is-birligi') event('sponsorship_packages_view', {source_section: 'sponsorship_packages', platform: 'instagram_facebook_youtube'});
       }
     }, {threshold: 0.25});
-    for (const section of ['kitle', 'is-birligi']) observer.observe(document.getElementById(section));
+    for (const id of ['kitle', 'is-birligi', 'reklam-modelleri', 'paket-karsilastirma']) {
+      const section = document.getElementById(id);
+      const target = id === 'is-birligi' ? section?.querySelector('.packages-header') : section;
+      if (target) { viewTargets.set(target, id); observer.observe(target); }
+    }
   }
 })();

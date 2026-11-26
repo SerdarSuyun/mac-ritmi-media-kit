@@ -1,0 +1,14 @@
+dist/
+node_modules/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.zip
+
+# Original business material is never part of a website release.
+/docs/sources/
+*.png
+!public/assets/*.png
+/work/
+/outputs/
